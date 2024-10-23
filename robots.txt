@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://vitioster.github.io/vitioster.vitioster
+Sitemap: https://vitioster.github.io/app/vitioster.vitioster
+Sitemap: https://vitioster.github.io/assets/vitioster.vitioster
+Sitemap: https://vitioster.github.io/css/vitioster.vitioster
+Sitemap: https://vitioster.github.io/includes/vitioster.vitioster
+Sitemap: https://vitioster.github.io/item/vitioster.vitioster
+Sitemap: https://vitioster.github.io/src/vitioster.vitioster
